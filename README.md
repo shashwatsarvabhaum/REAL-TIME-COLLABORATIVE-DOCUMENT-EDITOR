@@ -32,6 +32,8 @@ Additionally, features such as PDF export, markdown support, autosave, and colla
 
 # OUTPUT
 
+<img width="1478" height="452" alt="Image" src="https://github.com/user-attachments/assets/aac08cd2-57d8-4f38-abe8-3fead3fbb373" />
 
 
-In conclusion, the Real-Time Collaborative Document Editor is a full-stack project that blends advanced frontend interactivity with real-time backend architecture. It serves as a functional and technically challenging application, showcasing skills in web development, socket programming, real-time systems, and UI/UX design—making it ideal for modern collaborative workflows in education, business, and content creation.
+
+
