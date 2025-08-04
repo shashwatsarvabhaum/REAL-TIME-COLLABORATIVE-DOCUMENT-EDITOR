@@ -32,6 +32,9 @@ Additionally, features such as PDF export, markdown support, autosave, and colla
 
 # OUTPUT
 
+<img width="1123" height="486" alt="Image" src="https://github.com/user-attachments/assets/240dce6a-5ab4-43fe-a3ab-07995e89fe1e" />
+
+
 <img width="1478" height="452" alt="Image" src="https://github.com/user-attachments/assets/aac08cd2-57d8-4f38-abe8-3fead3fbb373" />
 
 
